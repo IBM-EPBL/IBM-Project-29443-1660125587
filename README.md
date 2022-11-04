@@ -49,10 +49,10 @@ Dharanya
   - [x] Data Flow Daigrams
   - [x] Technology Architecture
 
-- [ ] Project Planning Phase
-  - [ ] Milestone 
-  - [ ] Activity List 
-  - [ ] Sprint Delivery Plan 
+- [x] Project Planning Phase
+  - [x] Milestone 
+  - [x] Activity List 
+  - [x] Sprint Delivery Plan 
 
 - [ ] Project Development Phase
   - [ ] Sprint 1
